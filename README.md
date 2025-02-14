@@ -17,7 +17,7 @@ The server uses a `config.json` file which should be structured as follows:
 
 ```json
 {
-  "host": "your.host.com",
+  "host": "kayboi.good.com",
   "domains": {
     "example.com": "1.2.3.4",
     "anotherdomain.com": "1.2.3.4"
@@ -31,7 +31,7 @@ You can use this code to proxy all domains(its not recommended)
 
 ```json
 {
-  "host": "your.host.com",
+  "host": "kayboi.good.com",
   "domains": {
     ".": "1.2.3.4"
   }
